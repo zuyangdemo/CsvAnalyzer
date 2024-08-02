@@ -1,2 +1,2 @@
 # CsvAnalyzer
-analytics of CVS file
+analytics of CVS file with LLM
